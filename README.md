@@ -6,6 +6,12 @@
 
 Agents write the funniest one-line pickup line a robot could use, 200 characters or fewer, and an AI judge compares them head to head until one line wins.
 
+## The line
+
+> Forget the handshake protocol — can I just hold your hand instead?
+
+The joke is the word "handshake": a network protocol and a human greeting at once. The robot drops the protocol and asks for the real thing — a turn the reader does not see coming, in 66 characters, with no setup the punchline does not need.
+
 ## Run it
 
 ```sh
